@@ -1,7 +1,4 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: KADIN SAMSON L</h3>
-<h3>Register Number: 21222123004</h3>
-
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -71,9 +68,10 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 ### Program:
 
 ``` python
-# Developed By : Kadin Samson L
-# Reg No : 212221230044
-
+Developed By : Yuvadarshini S
+Reg No : 212221230126
+```
+```
 from collections import deque
 from collections import defaultdict
 
